@@ -1,0 +1,25 @@
+.navbar {
+    background: blue;
+    border-bottom:#333 3px solid ;
+
+}
+
+#home-section {
+    background: url(img/homepicture.jpg);
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#explore-head-section {
+    background-color: #888;
+}
+
+.dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+}
